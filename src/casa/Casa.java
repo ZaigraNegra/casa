@@ -15,6 +15,8 @@ public class Casa {
      */
     public static void main(String[] args) {
         System.out.println("Esta es mi casa");
+        System.out.println("Hola yo me llamo Said");
+        System.out.println("Y estoy con mi familia");
     }
     
 }
